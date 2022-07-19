@@ -1,0 +1,35 @@
+*{
+				box-sizing: border-box;
+		  
+}
+body {
+				height: 100vh;
+				margin: 0;
+				background: url('./img.gif');
+		display: flex;
+justify-content: center;
+align-content: center;
+     
+}
+
+.middle {
+    position: absolute;
+    display: flex;
+				bottom: 17%;
+				
+}
+
+#pre {
+padding-top: 15px;
+    padding-right: 30px;
+				background: rgba(0,0,0,0);
+}
+#play {
+				background: rgba(0,0,0,0);
+				
+}
+#next {
+				padding-top: 15px;
+    padding-left: 30px;
+				background: rgba(0,0,0,0);
+}
